@@ -1,7 +1,5 @@
 # Archives
 
-Old paged built before.
+- [welcome-to-motss](https://motss-forum.github.io/archives/welcome-to-motss/)
 
-- welcome-to-motss
-
-- motss2015
+- [motss2015](https://motss-forum.github.io/archives/motss2015/)
