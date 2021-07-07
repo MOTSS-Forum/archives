@@ -1,4 +1,5 @@
 import glob
+import urllib.parse
 
 with open("README.md", "w") as f:
     f.writelines(["## 微信公众号存档\n", "\n"])
@@ -17,4 +18,4 @@ with open("README.md", "w") as f:
 
     for i in articles:
         f.writelines(
-            ["- [{}](./{}) (_{}_)\n".format(i["title"], i["path"], i["date"])])
+            ["- [{}](./{}) (_{}_)\n".format(i["title"], urllib.parse.quote(i["path"]), i["date"])])
