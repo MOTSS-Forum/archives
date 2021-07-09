@@ -1,4 +1,5 @@
 import glob
+from os import replace
 import urllib.parse
 
 with open("README.md", "w") as f:
@@ -17,5 +18,6 @@ with open("README.md", "w") as f:
     articles.sort(key=lambda x: x["date"], reverse=True)
 
     for i in articles:
+        path = urllib.parse.quote(i["path"])
         f.writelines(
-            ["- [{}](./{}) (_{}_)\n".format(i["title"], urllib.parse.quote(i["path"]), i["date"])])
+            ["- [{}](./{}) [[PDF]({})] (_{}_)\n".format(i["title"], path, "./pdf/" + path[5:].replace(".html", ".pdf"), i["date"])])
