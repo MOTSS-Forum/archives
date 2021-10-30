@@ -1,6 +1,6 @@
 baseURL = 'https://motss.cc/archives/'
 languageCode = 'zh-CN'
-title = 'Archives | MOTSS'
+title = 'Archives'
 theme= 'bearblog'
 
 enableRobotsTXT = true
@@ -11,15 +11,15 @@ paginate= 15
 
 [menu]
 [[menu.main]]
-  name = 'Pages'
+  name = '其他页面'
   url = '/pages/'
   weight = 40
 [[menu.main]]
-  name = 'Wechat'
+  name = '微信'
   url = '/wechat/'
   weight = 10
 [[menu.main]]
-  name = 'Repo'
+  name = '源代码'
   url = 'https://github.com/MOTSS-forum/archives'
   weight = 50
 
@@ -30,4 +30,4 @@ paginate= 15
 
   favicon = "favicon.png"
 
-  title = "酷儿论坛 | MOTSS"
+  title = "酷儿论坛"

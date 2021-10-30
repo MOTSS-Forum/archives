@@ -11,10 +11,10 @@
 {{ end }}{{ end }}
 <content>
   {{ .Content }}
+  <br>
   {{ if .Params.src }}
-
   <iframe src="{{ .Params.src | absURL }}"
-    style="{{ if .Params.landscape }} width: 100%; height: 360px; {{ else }} width: 400px; height: 560px; {{ end }}">
+    style="width: 100%; height: 420px;">
   </iframe> <a href="{{ .Params.src | absURL }}" target="_blank">新页面打开</a>
   {{ with .Params.pdf }} <a href="{{ . | absURL }}">PDF</a> {{ end }}
   {{ end }}
