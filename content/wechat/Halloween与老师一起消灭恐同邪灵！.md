@@ -1,0 +1,6 @@
+---
+title: "Halloween与老师一起消灭恐同邪灵！"
+src: "wechat/html/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2016-11-02_Halloween%E4%B8%8E%E8%80%81%E5%B8%88%E4%B8%80%E8%B5%B7%E6%B6%88%E7%81%AD%E6%81%90%E5%90%8C%E9%82%AA%E7%81%B5%EF%BC%81.html"
+date: 2016-11-02
+pdf: "wechat/pdf/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2016-11-02_Halloween%E4%B8%8E%E8%80%81%E5%B8%88%E4%B8%80%E8%B5%B7%E6%B6%88%E7%81%AD%E6%81%90%E5%90%8C%E9%82%AA%E7%81%B5%EF%BC%81.pdf"
+---

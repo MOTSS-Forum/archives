@@ -1,0 +1,33 @@
+baseURL = 'https://motss.cc/archives/'
+languageCode = 'zh-CN'
+title = 'Archives | MOTSS'
+theme= 'bearblog'
+
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+disableHugoGeneratorInject = true
+paginate= 15
+
+[menu]
+[[menu.main]]
+  name = 'Pages'
+  url = '/pages/'
+  weight = 40
+[[menu.main]]
+  name = 'Wechat'
+  url = '/wechat/'
+  weight = 10
+[[menu.main]]
+  name = 'Repo'
+  url = 'https://github.com/MOTSS-forum/archives'
+  weight = 50
+
+[params]
+  copyright = "[MOTSS Forum](https://motss.cc/)"
+  description = "酷儿论坛为杭州高校性少数人群营造一个多元、健康、平等的环境，促进自我认同与社会认可。"
+  hideMadeWithLine = true
+
+  favicon = "favicon.png"
+
+  title = "酷儿论坛 | MOTSS"

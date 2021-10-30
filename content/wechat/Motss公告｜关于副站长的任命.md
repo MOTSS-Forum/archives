@@ -1,0 +1,6 @@
+---
+title: "Motss公告｜关于副站长的任命"
+src: "wechat/html/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2020-10-12_Motss%E5%85%AC%E5%91%8A%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%89%AF%E7%AB%99%E9%95%BF%E7%9A%84%E4%BB%BB%E5%91%BD.html"
+date: 2020-10-12
+pdf: "wechat/pdf/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2020-10-12_Motss%E5%85%AC%E5%91%8A%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%89%AF%E7%AB%99%E9%95%BF%E7%9A%84%E4%BB%BB%E5%91%BD.pdf"
+---

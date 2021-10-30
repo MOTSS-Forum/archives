@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ $pages := .Site.RegularPages }}
+{{ $paginator := .Paginate $pages }}
+<content>
+  {{ if .Data.Singular }}
+  <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
+  <small>
+    <a href="{{ "/blog" | relURL }}">Remove filter</a>
+  </small>
+  {{ end }}
+  <ul class="blog-posts">
+    {{ range $paginator.Pages }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "2006, Jan 02" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp;{{ with .Params.pdf }}<a href="{{ . | absURL }}" class="pdf">[PDF]</a>{{ end }}
+    </li>
+    {{ else }}
+    <li>
+      No posts yet
+    </li>
+    {{ end }}
+  </ul>
+  {{ if .Data.Singular }}
+  {{else}}
+    <small>
+      <div>
+        {{ range .Site.Taxonomies.tags }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    </small>
+    {{ end }}
+</content>
+
+<nav>
+  {{ $paginator := .Paginate $pages }}
+  {{ template "_internal/pagination.html" . }}
+</nav>
+{{ end }}

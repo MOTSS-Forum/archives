@@ -1,0 +1,6 @@
+---
+title: "DiversityUNNC宁波LGBTQ学生座谈会"
+src: "wechat/html/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2015-06-09_DiversityUNNC%E5%AE%81%E6%B3%A2LGBTQ%E5%AD%A6%E7%94%9F%E5%BA%A7%E8%B0%88%E4%BC%9A.html"
+date: 2015-06-09
+pdf: "wechat/pdf/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2015-06-09_DiversityUNNC%E5%AE%81%E6%B3%A2LGBTQ%E5%AD%A6%E7%94%9F%E5%BA%A7%E8%B0%88%E4%BC%9A.pdf"
+---

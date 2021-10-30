@@ -1,0 +1,6 @@
+---
+title: "做HIV快检的这一个月"
+src: "wechat/html/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2018-11-10_%E5%81%9AHIV%E5%BF%AB%E6%A3%80%E7%9A%84%E8%BF%99%E4%B8%80%E4%B8%AA%E6%9C%88.html"
+date: 2018-11-10
+pdf: "wechat/pdf/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2018-11-10_%E5%81%9AHIV%E5%BF%AB%E6%A3%80%E7%9A%84%E8%BF%99%E4%B8%80%E4%B8%AA%E6%9C%88.pdf"
+---

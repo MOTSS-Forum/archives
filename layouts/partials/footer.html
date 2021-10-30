@@ -1,0 +1,4 @@
+<p>
+    {{ if ne .Site.Params.hideMadeWithLine true }}Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo
+        ʕ•ᴥ•ʔ Bear</a>{{ else }}{{ now.Year }}, {{ .Site.Params.copyright | markdownify }}{{ end }}
+</p>

@@ -1,0 +1,6 @@
+[submodule "site/themes/bearblog"]
+	path = site/themes/bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/bearblog"]
+	path = themes/bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git

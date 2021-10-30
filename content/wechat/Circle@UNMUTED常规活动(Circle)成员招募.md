@@ -1,0 +1,6 @@
+---
+title: "Circle@UNMUTED常规活动(Circle)成员招募"
+src: "wechat/html/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2017-03-15_Circle%40UNMUTED%E5%B8%B8%E8%A7%84%E6%B4%BB%E5%8A%A8%28Circle%29%E6%88%90%E5%91%98%E6%8B%9B%E5%8B%9F.html"
+date: 2017-03-15
+pdf: "wechat/pdf/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2017-03-15_Circle%40UNMUTED%E5%B8%B8%E8%A7%84%E6%B4%BB%E5%8A%A8%28Circle%29%E6%88%90%E5%91%98%E6%8B%9B%E5%8B%9F.pdf"
+---

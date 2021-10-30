@@ -1,0 +1,6 @@
+---
+title: "AHFtest线上HIV自检项目"
+src: "wechat/html/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2019-05-16_AHFtest%E7%BA%BF%E4%B8%8AHIV%E8%87%AA%E6%A3%80%E9%A1%B9%E7%9B%AE.html"
+date: 2019-05-16
+pdf: "wechat/pdf/%E9%85%B7%E5%84%BF%E8%AE%BA%E5%9D%9B_2019-05-16_AHFtest%E7%BA%BF%E4%B8%8AHIV%E8%87%AA%E6%A3%80%E9%A1%B9%E7%9B%AE.pdf"
+---
