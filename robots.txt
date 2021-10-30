@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://motss.cc/archives/sitemap.xml
