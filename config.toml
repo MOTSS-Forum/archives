@@ -1,6 +1,6 @@
 baseURL = 'https://motss.cc/archives/'
 languageCode = 'zh-CN'
-title = 'Archives'
+title = 'MOTSS 存档站'
 theme= 'bearblog'
 
 enableRobotsTXT = true
